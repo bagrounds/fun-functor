@@ -1,0 +1,4 @@
+# [fun-functor](https://bagrounds.gitlab.io/fun-functor)
+
+Lift functions to act on complex values (e.g arrays, objects, function args)
+
